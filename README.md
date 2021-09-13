@@ -11,5 +11,8 @@ Allows users to enter a city and view current conditions and 5-day forecast. Pre
 ## Website
 https://gkowligi1392.github.io/weather-dashboard/
 
+## Screenshot
+https://github.com/gkowligi1392/weather-dashboard/blob/main/assets/images/Screenshot%20(12).png
+
 ## Contribution
 Made by Gokul Kowligi
